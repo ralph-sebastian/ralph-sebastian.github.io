@@ -12,8 +12,6 @@ What truly sets us apart is our unwavering commitment to sourcing the finest, fr
 
 **Fox Heights Pub and Grill** is more than just a restaurant; it's a gathering place for friends, families, and fellow food enthusiasts. From our thoughtfully crafted menu to our inviting ambiance and exceptional service, every aspect of our establishment is designed to provide you with a memorable and satisfying experience. Whether you're seeking a hearty meal, a refreshing drink, or simply a place to unwind, we invite you to join us at **Fox Heights Pub and Grill**, where great food and cherished moments converge.
 
-<iframe src="https://foxheightspubandgrill.com" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
-
 Other Useful links:
 
 - [The 4-2-10 Brisket Method](/4-2-10-Brisket-Method)
@@ -26,3 +24,7 @@ Other Useful links:
 - [How to Clean the Grease Trap](/how-to-clean-the-grease-trap)
 - [How to Safely Turn Off Your Traeger Grill](/how-to-safely-turn-off-your-traeger-grill)
 - [Why Is My Chicken Sticking to the Grill?](/why-is-my-chicken-sticking-to-the-grill)
+
+<iframe src="https://foxheightspubandgrill.com" width="100%" height="1px" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://foxheightspubandgrill.com" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
