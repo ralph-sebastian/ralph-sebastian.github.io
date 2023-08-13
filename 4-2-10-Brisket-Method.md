@@ -2,7 +2,7 @@
 
 ![Brisket](https://example.com/https://media.istockphoto.com/id/478037138/photo/homemade-smoked-barbecue-beef-brisket.jpg?s=612x612&w=0&k=20&c=f9x0PNIxFoRY2dYxufXkfjpdLcU0KBg47F_BFgHl8Wg=)
 
-When it comes to barbecue, few dishes hold as much reverence as a well-prepared brisket. With its tender, flavorful meat that falls apart at the slightest touch, brisket is a true delight for carnivores and barbecue enthusiasts alike. Achieving that melt-in-your-mouth texture and harmonious blend of smoky flavors, however, requires more than just throwing a slab of meat on a grill. Enter the 4-2-10 Brisket Method – a slow and meticulous approach that promises to elevate your brisket game to new heights.
+When it comes to barbecue, few dishes hold as much reverence as a well-prepared brisket. With its tender, flavorful meat that falls apart at the slightest touch, brisket is a true delight for carnivores and barbecue enthusiasts alike. Achieving that melt-in-your-mouth texture and harmonious blend of smoky flavors, however, requires more than just throwing a slab of meat on a grill. Enter the [4-2-10 Brisket Method](https://foxheightspubandgrill.com/post/4-2-10-brisket-method) – a slow and meticulous approach that promises to elevate your brisket game to new heights.
 
 ## The Art of Brisket
 
@@ -62,6 +62,8 @@ The 4-2-10 Brisket Method is more than just a cooking technique; it's a journey 
 
 So, gather your wood, fire up your smoker, and embark on the 4-2-10 Brisket Method adventure. With time, practice, and a whole lot of love for the process, you'll be well on your way to achieving brisket perfection that will have your friends and family begging for more.
 
-- [4-2-10 Brisket Method](https://foxheightspubandgrill.com/blogs/bbq-recipes/4-2-10-brisket-method)
+<iframe src="https://foxheightspubandgrill.com/post/4-2-10-brisket-method" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+
+Read more:
 - [https://sites.google.com/view/fox-heights-pub-and-grill/4-2-10-brisket-method](https://sites.google.com/view/fox-heights-pub-and-grill/4-2-10-brisket-method)
 - [https://rebeccafoodgrills.hashnode.dev/4-2-10-brisket-method](https://rebeccafoodgrills.hashnode.dev/4-2-10-brisket-method)
