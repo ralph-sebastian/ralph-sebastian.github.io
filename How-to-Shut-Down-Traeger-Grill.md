@@ -2,7 +2,7 @@
 
 ![Shutting Down Traeger Grill](https://example.com/traeger_grill_shutdown_image.jpg)
 
-Grilling on a Traeger grill is an experience that delights the senses with the aroma of wood-fired goodness and the promise of deliciously cooked food. Just as important as firing up your grill is properly shutting it down after a successful grilling session. Proper shutdown not only ensures safety but also maintains the longevity and performance of your grill. In this comprehensive guide, we'll walk you through the step-by-step process of how to properly shut down your Traeger grill.
+Grilling on a Traeger grill is an experience that delights the senses with the aroma of wood-fired goodness and the promise of deliciously cooked food. Just as important as firing up your grill is properly shutting it down after a successful grilling session. Proper shutdown not only ensures safety but also maintains the longevity and performance of your grill. In this comprehensive guide, we'll walk you through the step-by-step process of [how to properly shut down your Traeger grill](https://foxheightspubandgrill.com/post/how-to-safely-turn-off-your-traeger-grill).
 
 ## **Why Proper Shutdown Matters**
 
@@ -64,6 +64,7 @@ Properly shutting down your Traeger grill is an essential aspect of responsible 
 
 Read more:
 
+<iframe src="https://foxheightspubandgrill.com/post/how-to-safely-turn-off-your-traeger-grill" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
+
 - [How to Shut Down Your Traeger Grill](https://sites.google.com/view/fox-heights-pub-and-grill/How-to-Properly-Shut-Down-Your-Traeger-Grill)
 - [How to Shut Down Your Traeger Grill](https://rebeccafoodgrills.hashnode.dev/how-to-properly-shut-down-your-traeger-grill)
-- [How to Shut Down Your Traeger Grill](https://foxheightspubandgrill.com/blogs/bbq-recipes/a-step-by-step-guide-how-to-safely-turn-off-your-traeger-grill)
