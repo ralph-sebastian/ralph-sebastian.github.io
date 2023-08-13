@@ -62,7 +62,7 @@ The 4-2-10 Brisket Method is more than just a cooking technique; it's a journey 
 
 So, gather your wood, fire up your smoker, and embark on the 4-2-10 Brisket Method adventure. With time, practice, and a whole lot of love for the process, you'll be well on your way to achieving brisket perfection that will have your friends and family begging for more.
 
-<iframe src="https://foxheightspubandgrill.com/post/4-2-10-brisket-method" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://foxheightspubandgrill.com/post/4-2-10-brisket-method" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
 
 Read more:
 - [https://sites.google.com/view/fox-heights-pub-and-grill/4-2-10-brisket-method](https://sites.google.com/view/fox-heights-pub-and-grill/4-2-10-brisket-method)
