@@ -2,7 +2,7 @@
 
 ![Grilling Burgers](https://example.com/burger_grilling_image.jpg)
 
-Grilling burgers is a timeless culinary pleasure that brings together the sizzle of meat, the aroma of open flames, and the promise of a delicious meal. However, a common question that often arises among grilling enthusiasts is whether to keep the lid up or down when grilling burgers. In this article, we'll delve into the reasons behind both approaches and guide you towards finding the perfect technique for grilling mouthwatering burgers.
+Grilling burgers is a timeless culinary pleasure that brings together the sizzle of meat, the aroma of open flames, and the promise of a delicious meal. However, a common question that often arises among grilling enthusiasts is [whether to keep the lid up or down when grilling burgers](https://foxheightspubandgrill.com/post/lid-up-or-down-when-grilling-burgers). In this article, we'll delve into the reasons behind both approaches and guide you towards finding the perfect technique for grilling mouthwatering burgers.
 
 ## **The Lid Up Approach**
 
@@ -82,6 +82,7 @@ In the world of grilling, there's no one-size-fits-all answer. Whether you opt f
 
 Read more:
 
-- [Lid Up or Down When Grilling Burgers](https://foxheightspubandgrill.com/blogs/bbq-recipes/lid-up-or-down-when-grilling-burgers)
+<iframe src="https://foxheightspubandgrill.com/post/lid-up-or-down-when-grilling-burgers" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
+
 - [Lid Up or Down When Grilling Burgers](https://sites.google.com/view/fox-heights-pub-and-grill/Lid-Up-or-Down-When-Grilling-Burgers)
 - [Lid Up or Down When Grilling Burgers](https://rebeccafoodgrills.hashnode.dev/lid-up-or-down-when-grilling-burgers)
