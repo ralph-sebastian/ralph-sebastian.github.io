@@ -1,6 +1,6 @@
 # How to Safely Turn Off Your Traeger Grill: A Step-by-Step Guide
 
-Grilling on a Traeger grill is a delightful experience that infuses your food with that unmistakable wood-fired flavor. But just as important as firing up your grill is knowing how to properly turn it off when you're done cooking. Safety is paramount, and understanding the correct shutdown process ensures that your Traeger grill remains in good condition and ready for your next culinary adventure. In this guide, we'll walk you through the step-by-step process of safely turning off your Traeger grill.
+Grilling on a Traeger grill is a delightful experience that infuses your food with that unmistakable wood-fired flavor. But just as important as firing up your grill is knowing how to properly turn it off when you're done cooking. Safety is paramount, and understanding the correct shutdown process ensures that your Traeger grill remains in good condition and ready for your next culinary adventure. In this guide, we'll walk you through the step-by-step process of [safely turning off your Traeger grill](https://foxheightspubandgrill.com/post/how-to-safely-turn-off-your-traeger-grill).
 
 ## Why Turning Off Your Traeger Grill Safely Matters
 
@@ -60,7 +60,8 @@ If you have a grill cover, place it over the Traeger grill once it has cooled do
 
 Safely turning off your Traeger grill is a critical aspect of responsible grilling. By following the step-by-step guide outlined in this article, you can ensure the safety of yourself, your loved ones, and your grill. Remember that safety and proper maintenance not only protect you but also enhance the performance and longevity of your Traeger grill, allowing you to continue creating delicious wood-fired dishes for years to come.
 
+<iframe src="https://foxheightspubandgrill.com/post/how-to-safely-turn-off-your-traeger-grill" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
+
 Read more:
-- [How to Safely Turn Off Your Traeger Grill](https://foxheightspubandgrill.com/blogs/bbq-recipes/a-step-by-step-guide-how-to-safely-turn-off-your-traeger-grill)
 - [How to Safely Turn Off Your Traeger Grill](https://sites.google.com/view/fox-heights-pub-and-grill/How-to-Safely-Turn-Off-Your-Traeger-Grill)
 - [How to Safely Turn Off Your Traeger Grill](https://rebeccafoodgrills.hashnode.dev/mastering-grill-safety-how-to-safely-turn-off-your-traeger-grill)
