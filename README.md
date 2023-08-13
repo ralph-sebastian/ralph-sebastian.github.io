@@ -1,6 +1,6 @@
 # Fox Heights Pub and Grill - A Quick Review
 
-Welcome to **Fox Heights Pub and Grill**, a haven of culinary delight nestled in the heart of our vibrant community. Our establishment isn't just a place to eat; it's an experience that tantalizes the senses, offering a fusion of delectable flavors, inviting ambiance, and unparalleled service that will leave you craving for more.
+Welcome to **[Fox Heights Pub and Grill](http://foxheightspubandgrill.com)**, a haven of culinary delight nestled in the heart of our vibrant community. Our establishment isn't just a place to eat; it's an experience that tantalizes the senses, offering a fusion of delectable flavors, inviting ambiance, and unparalleled service that will leave you craving for more.
 
 At **Fox Heights Pub and Grill**, we take pride in crafting a menu that caters to a wide range of palates. Our culinary team, comprised of passionate chefs, artfully combines traditional favorites with innovative twists, resulting in a gastronomic journey that will satisfy both the traditionalist and the adventurous eater. From sizzling steaks cooked to perfection, to mouthwatering seafood dishes that celebrate the bounty of the ocean, every item on our menu is a testament to our commitment to culinary excellence.
 
@@ -12,9 +12,7 @@ What truly sets us apart is our unwavering commitment to sourcing the finest, fr
 
 **Fox Heights Pub and Grill** is more than just a restaurant; it's a gathering place for friends, families, and fellow food enthusiasts. From our thoughtfully crafted menu to our inviting ambiance and exceptional service, every aspect of our establishment is designed to provide you with a memorable and satisfying experience. Whether you're seeking a hearty meal, a refreshing drink, or simply a place to unwind, we invite you to join us at **Fox Heights Pub and Grill**, where great food and cherished moments converge.
 
-- Visit [Fox Heights Pub and Grill](https://foxheightspubandgrill.com/) Website
-- Other [Fox Heights Pub and Grill](https://sites.google.com/view/fox-heights-pub-and-grill/home) Reviews
-- Another [Fox Heights Pub and Grill](https://rebeccafoodgrills.hashnode.dev/fox-heights-pub-and-grill) Review
+<iframe src="https://foxheightspubandgrill.com" width="100%" height="5px" frameborder="0" allowfullscreen></iframe>
 
 Other Useful links:
 
@@ -28,5 +26,3 @@ Other Useful links:
 - [How to Clean the Grease Trap](/how-to-clean-the-grease-trap)
 - [How to Safely Turn Off Your Traeger Grill](/how-to-safely-turn-off-your-traeger-grill)
 - [Why Is My Chicken Sticking to the Grill?](/why-is-my-chicken-sticking-to-the-grill)
-
-  
