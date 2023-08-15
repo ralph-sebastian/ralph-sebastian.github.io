@@ -24,6 +24,7 @@ Other Useful links:
 - [How to Clean the Grease Trap](/how-to-clean-the-grease-trap)
 - [How to Safely Turn Off Your Traeger Grill](/how-to-safely-turn-off-your-traeger-grill)
 - [Why Is My Chicken Sticking to the Grill?](/why-is-my-chicken-sticking-to-the-grill)
+- [Butter of Gods Recipe](/butter-of-gods-recipe)
 
 <iframe src="https://foxheightspubandgrill.com" width="100%" height="1px" frameborder="0" allowfullscreen></iframe>
 
